@@ -29,10 +29,10 @@ Footer
 
 Aluno 1 Mauricio - Header 
 
-Aluno 2
+Aluno 2 Tiago
 
-Aluno 3
+Aluno 3 Lucas
+ 
+Aluno 4 Gustavo
 
-Aluno 4
-
-Aluno 5
+Aluno 5 Jailson
