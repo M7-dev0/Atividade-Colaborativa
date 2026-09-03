@@ -1,6 +1,7 @@
 # AgroVision | Atividade Colaborativa
 
 ## 🔎 **Objetivo do Projeto**
+
 <div align="center">
 
 Desenvolver uma landing page de uma startup ficticia de tecnologia utilizando git, github, html e css.
@@ -9,20 +10,7 @@ Desenvolver uma landing page de uma startup ficticia de tecnologia utilizando gi
 ---
 
 ## 🌱 **Sobre o AgroVision**
-<div align="center">
 
-O **AgroVision** utiliza drones equipados com câmeras para sobrevoar plantações e capturar imagens das áreas cultivadas. Essas imagens são processadas por uma IA, que identifica possíveis:
-# AgroVision | Atividade Colaborativa
-
-## 🔎 **Objetivo do Projeto**
-<div align="center">
-
-Desenvolver uma landing page de uma startup ficticia de tecnologia utilizando git, github, html e css.
-</div>
-
----
-
-## 🌱 **Sobre o AgroVision**
 <div align="center">
 
 O **AgroVision** utiliza drones equipados com câmeras para sobrevoar plantações e capturar imagens das áreas cultivadas. Essas imagens são processadas por uma IA, que identifica possíveis:
@@ -40,6 +28,7 @@ O **AgroVision** utiliza drones equipados com câmeras para sobrevoar plantaçõ
 ---
 
 ## 📃 **Seções da Página**
+
 <div align="center">
 
 **Header/Navegação**
@@ -54,6 +43,7 @@ O **AgroVision** utiliza drones equipados com câmeras para sobrevoar plantaçõ
 ---
 
 ## 👥 **Equipe**
+
 <div align="center">
  
 | Integrante             | Cargo           | Responsabilidade                |
