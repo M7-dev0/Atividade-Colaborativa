@@ -1,21 +1,31 @@
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
 body {
     display: flex;
     flex-direction: column;
     min-height: 100vh;
 }
 
-.header{
-    background-color: darkgrey;
+/* HEADER - @M7-dev0 */
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 30px;
+    background-color: #1b3d0f;
+}
+.logo img {
+    height: 50px;
+}
+nav ul {
+    display: flex;
+    gap: 35px;
+}
+nav ul a {
+    text-decoration: none;
+    color: white;
 }
 
-.logo{
-    display: flex;
+nav :hover{
+    color: #4CAF50;
 }
 
 /* HERO - @tiagovtsdev */
