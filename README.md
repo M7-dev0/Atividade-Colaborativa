@@ -1,38 +1,56 @@
-# Atividade Colaborativa
-Objetivo: desenvolver uma landing page de uma startup ficticia de tecnologia utilizando git, github, html e css.
+# AgroVision | Atividade Colaborativa
 
-===========================================================================
+## 🔎 **Objetivo do Projeto**
 
-AgroVision — Monitoramento inteligente de plantações
+<div align="center">
 
-O AgroVision utiliza drones equipados com câmeras para sobrevoar plantações e capturar imagens das áreas cultivadas. Essas imagens são processadas por uma IA, que identifica possíveis:
+Desenvolver uma landing page de uma startup ficticia de tecnologia utilizando git, github, html e css.
+</div>
 
-🦠 Doenças nas plantas
-🐛 Infestações de pragas
-🌱 Falhas no plantio
-💧 Áreas com possível falta de água
-🧪 Deficiências nutricionais
-📉 Regiões com baixo desenvolvimento
+---
 
-==============================================================================================
+## 🌱 **Sobre o AgroVision**
 
-Seções da Página 
-Header/Navegação
+<div align="center">
 
-Hero (banner principal)
+O **AgroVision** utiliza drones equipados com câmeras para sobrevoar plantações e capturar imagens das áreas cultivadas. Essas imagens são processadas por uma IA, que identifica possíveis:
 
-Serviços
+|                                              |
+| ------------------------------------------- |
+| **🦠 Doenças nas plantas**                  |
+| **🐛 Infestações de pragas**                |
+| **🌱 Falhas no plantio**                    |
+| **💧 Áreas com possível falta de água**     |
+| **🧪 Deficiências nutricionais**            |
+| **📉 Regiões com baixo desenvolvimento**    |
+</div>
 
-Footer
+---
 
-===================================================================================
+## 📃 **Seções da Página**
 
-Aluno 1 Mauricio - Header 
+<div align="center">
 
-Aluno 2 Tiago
+**Header/Navegação**
 
-Aluno 3 Lucas
+**Hero (banner principal)**
+
+**Serviços**
+
+**Footer**
+</div>
+
+---
+
+## 👥 **Equipe**
+
+<div align="center">
  
-Aluno 4 Gustavo
-
-Aluno 5 Jailson
+| Integrante             | Cargo           | Responsabilidade                |
+| ---------------------- | --------------- | ------------------------------- |
+| **Maurício**           | Líder           | Header / Navegação              |
+| **Tiago**              | Desenvolvedor   | Hero                            |
+| **Lucas**              | Desenvolvedor   | ❔                              |
+| **Gustavo**            | Desenvolvedor   | ❔                              |
+| **Jailson**            | Desenvolvedor   | ❔                              |
+</div>
