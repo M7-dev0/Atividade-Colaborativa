@@ -46,7 +46,7 @@ O **AgroVision** utiliza drones equipados com câmeras para sobrevoar plantaçõ
 
 <div align="center">
  
-| Integrante             | Cargo           | Responsabilidade                |
+| Integrante             | Cargo           | Responsável                     |
 | ---------------------- | --------------- | ------------------------------- |
 | **Maurício**           | Líder           | Header / Navegação              |
 | **Tiago**              | Desenvolvedor   | Hero                            |
