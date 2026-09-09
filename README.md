@@ -50,7 +50,7 @@ O **AgroVision** utiliza drones equipados com câmeras para sobrevoar plantaçõ
 | ---------------------- | --------------- | ------------------------------- |
 | **Maurício**           | Líder           | Header / Navegação              |
 | **Tiago**              | Desenvolvedor   | Hero                            |
-| **Lucas**              | Desenvolvedor   | ❔                              |
-| **Gustavo**            | Desenvolvedor   | ❔                              |
+| **Lucas**              | Desenvolvedor   | Footer                          |
+| **Gustavo**            | Desenvolvedor   | Footer                          |
 | **Jailson**            | Desenvolvedor   | Serviços                        |
 </div>
